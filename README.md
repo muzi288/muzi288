@@ -2,7 +2,7 @@
 
 <!-- Animated header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=80&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=120&amp;section=header&amp;text=Muziwakhe Wellington Zulu&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Backend and AI Integration Engineer&amp;descSize=16&amp;descAlignY=68&amp;descColor=7EB8F7"/>
 
 </div>
 
