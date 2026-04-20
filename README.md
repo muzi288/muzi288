@@ -41,7 +41,7 @@ Built a production-grade platform that ingests system metrics, detects anomalies
 
 -----
 
-### 💰 [Financial Aggregation Engine](https://github.com/muzi288/financial-aggregation-engine)
+### 💰 [Financial Aggregation Engine](https://github.com/muzi288/net-worth-engine)
 
 > Multi-currency asset aggregation with precision-safe financial calculations
 
