@@ -132,19 +132,10 @@ Designed and deployed a centralised platform for Harare municipality to track bi
 
 </div>
 
------
-
-## 📚 Education
-
-**MSc Electrical Engineering** — *Cybersecurity & Machine Learning* | University of Cape Town | 2024–2025
-
-**BSc (Hons) Electrical & Computer Engineering** | University of Cape Town | 2019–2023
-
------
 
 <div align="center">
 
-*Open to Backend, AI Integration, and Security Engineering roles — remote or Cape Town based*
+*Open to Backend, AI Integration, and Security Engineering roles*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B2A4A&height=80&section=footer"/>
 
