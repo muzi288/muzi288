@@ -2,7 +2,7 @@
 
 <!-- Animated header -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1B2A4A&height=120&section=header&text=Muziwakhe%20Wellington%20Zulu&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Backend%20%26%20AI%20Integration%20Engineer&descSize=16&descAlignY=68&descColor=7EB8F7)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=80&amp;section=footer"/>
 
 </div>
 
