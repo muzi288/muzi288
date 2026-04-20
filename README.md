@@ -2,13 +2,13 @@
 
 <!-- Animated header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=80&amp;section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=120&amp;section=header&amp;text=Muziwakhe%20Wellington%20Zulu&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Backend%20%26%20AI%20Integration%20Engineer&amp;descSize=16&amp;descAlignY=68&amp;descColor=7EB8F7"/>
 
 </div>
 
 <div align="center">
 
-### Backend Engineer · AI Systems · ICS Cybersecurity 
+### Backend Engineer  AI Systems  ICS Cybersecurity 
 
 *Building production-grade AI-powered platforms, scalable APIs, and secure industrial systems*
 
@@ -21,7 +21,7 @@
 
 ##  About Me
 
-I’m a Backend & AI Integration Engineer , with a mix of skills across **AI-powered product development**, **distributed backend systems**, and **industrial cybersecurity**.
+I’m a Backend &Amp; AI Integration Engineer , with a mix of skills across **AI-powered product development**, **distributed backend systems**, and **industrial cybersecurity**.
 
 I have shipped production systems for clients in fintech, municipal government, and operations monitoring — mostly in fast-paced, fully remote contract environments.
 
@@ -40,7 +40,6 @@ What makes my profile unusual: I’ve built real LLM-powered platforms using Ope
 Built a production-grade platform that ingests system metrics, detects anomalies in real time, and automatically generates structured executive reports using GPT. Includes fallback caching for API reliability and a live React dashboard.
 
 -----
-
 ###  [Financial Aggregation Engine](https://github.com/muzi288/net-worth-engine)
 
 > Multi-currency asset aggregation with precision-safe financial calculations
