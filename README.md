@@ -119,14 +119,6 @@ Designed and deployed a centralised platform for Harare municipality to track bi
 
 -----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Muziwakhe’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzi288&show_icons=true&theme=dark&bg_color=1B2A4A&title_color=7EB8F7&icon_color=7EB8F7&text_color=ffffff&border_color=2E6FBF&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzi288&layout=compact&theme=dark&bg_color=1B2A4A&title_color=7EB8F7&text_color=ffffff&border_color=2E6FBF)
-
 </div>
 
 
