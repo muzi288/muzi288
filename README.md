@@ -2,7 +2,7 @@
 
 <!-- Animated header -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1B2A4A&height=120&section=header&text=Muziwakhe%20Wellington%20Zulu)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=150&section=header&text=Muziwakhe%20Wellington%20Zulu&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Cybersecurity&descSize=18&descAlignY=65&descColor=E0F2FE)
 
 </div>
 
