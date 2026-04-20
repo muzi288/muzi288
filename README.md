@@ -13,7 +13,7 @@
 *Building production-grade AI-powered platforms, scalable APIs, and secure industrial systems*
 
 [![Email](https://img.shields.io/badge/Email-mzulu2204%40gmail.com-1B2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:mzulu2204@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2E6FBF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muziwakhe-zulu-b040b91aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)(https://github.com/muzi288)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2E6FBF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muziwakhe-zulu-b040b91aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 </div>
 
