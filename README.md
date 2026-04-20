@@ -8,8 +8,6 @@
 
 <div align="center">
 
-### Backend Engineer  AI Systems  ICS Cybersecurity 
-
 *Building production-grade AI-powered platforms, scalable APIs, and secure industrial systems*
 
 [![Email](https://img.shields.io/badge/Email-mzulu2204%40gmail.com-1B2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:mzulu2204@gmail.com)
