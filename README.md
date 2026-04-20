@@ -2,7 +2,7 @@
 
 <!-- Animated header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=120&amp;section=header&amp;text=Muziwakhe%20Wellington%20Zulu&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Backend%20%26%20AI%20Integration%20Engineer&amp;descSize=16&amp;descAlignY=68&amp;descColor=7EB8F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=1B2A4A&amp;height=80&amp;section=footer"/>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ##  About Me
 
-I’m a Backend &Amp; AI Integration Engineer , with a mix of skills across **AI-powered product development**, **distributed backend systems**, and **industrial cybersecurity**.
+I’m a Backend &amp; AI Integration Engineer , with a mix of skills across **AI-powered product development**, **distributed backend systems**, and **industrial cybersecurity**.
 
 I have shipped production systems for clients in fintech, municipal government, and operations monitoring — mostly in fast-paced, fully remote contract environments.
 
