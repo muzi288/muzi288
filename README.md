@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🛠 Backend Engineer · AI Systems · ICS Cybersecurity 
+### Backend Engineer · AI Systems · ICS Cybersecurity 
 
 *Building production-grade AI-powered platforms, scalable APIs, and secure industrial systems*
 
@@ -19,7 +19,7 @@
 
 -----
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m a Backend & AI Integration Engineer , with a mix of skills across **AI-powered product development**, **distributed backend systems**, and **industrial cybersecurity**.
 
@@ -29,9 +29,9 @@ What makes my profile unusual: I’ve built real LLM-powered platforms using Ope
 
 -----
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 [AI Operations Monitoring Platform](https://github.com/muzi288/ai-ops-platform)
+###  [AI Operations Monitoring Platform](https://github.com/muzi288/ai-ops-platform)
 
 > Real-time operations monitoring with ML anomaly detection and LLM-generated executive insights
 
@@ -41,7 +41,7 @@ Built a production-grade platform that ingests system metrics, detects anomalies
 
 -----
 
-### 💰 [Financial Aggregation Engine](https://github.com/muzi288/net-worth-engine)
+###  [Financial Aggregation Engine](https://github.com/muzi288/net-worth-engine)
 
 > Multi-currency asset aggregation with precision-safe financial calculations
 
@@ -51,7 +51,7 @@ Engineered for a financial lending company — aggregates client assets across m
 
 -----
 
-### 🔐 [ICS/SCADA Security & Anomaly Detection](https://github.com/muzi288/ics-security-research)
+###  [ICS/SCADA Security & Anomaly Detection](https://github.com/muzi288/ics-security-research)
 
 > ML-based intrusion detection for industrial control systems
 
@@ -61,7 +61,7 @@ Built one of the few live PLC/SCADA cybersecurity testbeds in South Africa. Ran 
 
 -----
 
-### 🏙️ [Billboard Asset & Revenue Management System](https://github.com/muzi288/billboard-management)
+###  [Billboard Asset & Revenue Management System](https://github.com/muzi288/billboard-management)
 
 > Municipal asset management system replacing manual paper processes
 
@@ -71,7 +71,7 @@ Designed and deployed a centralised platform for Harare municipality to track bi
 
 -----
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -112,13 +112,13 @@ Designed and deployed a centralised platform for Harare municipality to track bi
 
 -----
 
-## 🏆 Highlights
+##  Highlights
 
-- 🥇 **1st Place** — 2024 CHPC National Cybersecurity Challenge (UCT Team Lead)
-- 📄 **Published Research** — Presented at SATNAC 2024 on ML-based ICS intrusion detection
-- 🏅 **Roscommon House Top Grade Award** — University of Cape Town
-- 🔬 **Built live PLC/SCADA academic security testbeds**
-- 🤖 **Shipped LLM-powered production platforms** using OpenAI GPT + Anthropic Claude APIs
+-  **1st Place** — 2024 CHPC National Cybersecurity Challenge (UCT Team Lead)
+-  **Published Research** — Presented at SATNAC 2024 on ML-based ICS intrusion detection
+-  **Roscommon House Top Grade Award** — University of Cape Town
+-  **Built live PLC/SCADA academic security testbeds**
+-  **Shipped LLM-powered production platforms** using OpenAI GPT + Anthropic Claude APIs
 
 -----
 
