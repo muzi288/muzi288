@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🛠 Backend Engineer · AI Systems · ICS Cybersecurity · MSc UCT
+### 🛠 Backend Engineer · AI Systems · ICS Cybersecurity 
 
 *Building production-grade AI-powered platforms, scalable APIs, and secure industrial systems*
 
